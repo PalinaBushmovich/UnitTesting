@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DataSet>
+  <AbsMethodDouble>
+    <InputParameter>-1.1</InputParameter>
+    <Result>1.1</Result>
+  </AbsMethodDouble>
+  <AbsMethodDouble>
+    <InputParameter>-0.3</InputParameter>
+    <Result>0.3</Result>
+  </AbsMethodDouble>
+  <AbsMethodDouble>
+    <InputParameter>-3.44</InputParameter>
+    <Result>3.44</Result>
+  </AbsMethodDouble>
+  <AbsMethodDouble>
+    <InputParameter>-0</InputParameter>
+    <Result>0</Result>
+  </AbsMethodDouble>
+  <AbsMethodDouble>
+    <InputParameter>7</InputParameter>
+    <Result>7</Result>
+  </AbsMethodDouble>
+  <AbsMethodString>
+    <InputParameter>5</InputParameter>
+    <Result>5</Result>
+  </AbsMethodString>
+  <AbsMethodString>
+    <InputParameter>2.3</InputParameter>
+    <Result>2.3</Result>
+  </AbsMethodString>
+  <AbsMethodString>
+    <InputParameter>-3.5</InputParameter>
+    <Result>3.5</Result>
+  </AbsMethodString>
+  <AbsMethodString>
+    <InputParameter>4</InputParameter>
+    <Result>4</Result>
+  </AbsMethodString>
+</DataSet>
